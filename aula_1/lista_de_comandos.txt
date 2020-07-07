@@ -1,0 +1,115 @@
+operações com números
++ soma
+- subtração
+* multiplicação
+/ divisão
+// divisão inteira
+% modulo(resto da divisão)
+** potencia
+______________
+string
+
++ concatena
+* duplica
+______________
+atribuindo valor as variávies
+a = 3    
+(variável a recebe valor 3)
+
+a = 'test'
+ (variável a recebe string test )
+______________
+formatos da string podem ser de 4 formas diferente
+'aaaaaaaaa'
+"aaaaaaaaa"
+'''aaaaaaaaa'''
+"""aaaaaaaaa"""
+______________
+comparando valor de duas variávies
+igualdade
+a == 3
+
+maior que
+a > 3
+
+maior igual
+a >= 3
+
+menor que
+a < 3
+
+menor igual 
+a <= 3
+
+diferente
+a != 3
+
+
+______________
+comandos para lista
+
+declarando uma lista 
+
+l = []
+# os elementos são separados por ','
+
+l = [11111,22222,3333,44444,5555]
+
+pegar elementos da lista
+
+primeiro elemento
+l[0]
+
+segundo elemento
+l[1]
+
+ultimo elemento
+l[-1]
+
+penultimo elemento
+l[-2]
+
+do segundo ao terceiro
+l[1:4]
+#l[incio: fim + 1]
+
+do quarto ao ultimo
+l[4:]
+
+
+inverter uma lista inteira
+l[::-1]
+
+lista inteira pulando de um em um elemento
+l[::2]
+
+transformar string em lista
+'ola tudo bem'.split(' ')
+#string.split('delimitador de elementos')
+#resultado: uma lista onde cada palavra é um elemento
+
+______________
+formatar prints
+print('text %' %(variavel))
+%d = para inteiros
+%f = para decimais
+%.2f = decimais com duas casas
+%.3f = decimais com tres casas
+%.nf = decimais com n casas
+%s = string
+
+
+______________
+sintaxe padrão de if else
+
+
+if condicao:
+    codigo
+elif condicao:
+    codigo
+else:
+    codigo
+
+sempre lembre de dois pontos no final e identar o código 
+
+

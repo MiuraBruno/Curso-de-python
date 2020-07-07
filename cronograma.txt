@@ -1,0 +1,51 @@
+cronograma
+aula_1
+    apresentação, introdução etc
+    declaração de variável
+    tipos de variáveis
+        int
+        float
+        lista
+        string
+    comandos para acessar a lista
+    IF ELSE
+aula_2
+    laços
+        for
+        while
+    dicionario
+        itens = dic.items()
+        chaves = dic.keys()
+        valores = dic.values()
+aula_3
+    função
+    args
+    kargs
+aula_4
+    dicas de comandos 
+        help
+        dir
+    bibliotecas
+        os.system
+        math
+        time
+    py -m pip install <lib>
+aula_5
+    leitura de arquivos(nativo)
+aula_6
+    pandas
+    dataframe
+aula_7
+    programação funcional
+        lambda
+        reduce
+        zip
+        map
+        filter
+aula_8
+    paralelismo
+
+        
+        
+        
+        
