@@ -1,5 +1,5 @@
 cronograma
-aula_1
+(OK)aula_1
     apresentação, introdução etc
     declaração de variável
     tipos de variáveis
@@ -9,7 +9,7 @@ aula_1
         string
     comandos para acessar a lista
     IF ELSE
-aula_2
+(OK)aula_2
     laços
         for
         while
