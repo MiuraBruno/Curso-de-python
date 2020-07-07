@@ -20,7 +20,7 @@ cronograma
 aula_3
     função
     args
-    kargs
+    kargs    
 aula_4
     dicas de comandos 
         help
@@ -30,6 +30,7 @@ aula_4
         math
         time
     py -m pip install <lib>
+    estrutra de um código convencional
 aula_5
     leitura de arquivos(nativo)
 aula_6
