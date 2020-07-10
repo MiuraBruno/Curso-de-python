@@ -45,6 +45,8 @@ aula_7
     dataframe
 aula_8
     paralelismo
+aula_9
+    arquivo de configuração
 
         
         
