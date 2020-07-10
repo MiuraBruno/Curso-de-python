@@ -32,17 +32,17 @@ aula_4
     py -m pip install <lib>
     estrutra de um código convencional
 aula_5
-    leitura de arquivos(nativo)
-aula_6
-    pandas
-    dataframe
-aula_7
     programação funcional
         lambda
         reduce
         zip
         map
         filter
+aula_6
+    leitura de arquivos(nativo)    
+aula_7
+    pandas
+    dataframe
 aula_8
     paralelismo
 
