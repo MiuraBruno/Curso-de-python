@@ -17,11 +17,11 @@ cronograma
         itens = dic.items()
         chaves = dic.keys()
         valores = dic.values()
-aula_3
+(OK)aula_3
     função
     args
     kargs    
-aula_4
+(OK)aula_4
     dicas de comandos 
         help
         dir
