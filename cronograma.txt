@@ -43,10 +43,14 @@ aula_6
 aula_7
     pandas
     dataframe
+    3 dias
 aula_8
     paralelismo
+    1 dia
 aula_9
     arquivo de configuração
+    1 dia 
+
 
         
         
