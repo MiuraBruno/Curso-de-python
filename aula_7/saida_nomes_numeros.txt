@@ -6,3 +6,11 @@ ola como voce esta Ikeda, seu id e 98123
 ola como voce esta xxxxx, seu id e 817237189723919
 ________________________________________
 fim do arquivo lido
+ola como voce esta Bruno, seu id e 12
+ola como voce esta Ueda, seu id e 40
+ola como voce esta Anderson, seu id e 210
+ola como voce esta Luis, seu id e 192
+ola como voce esta Ikeda, seu id e 98123
+ola como voce esta xxxxx, seu id e 817237189723919
+________________________________________
+fim do arquivo lido

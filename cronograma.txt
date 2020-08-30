@@ -45,9 +45,6 @@ aula_7
     dataframe
     3 dias
 aula_8
-    paralelismo
-    1 dia
-aula_9
     arquivo de configuração
     1 dia 
 
