@@ -38,7 +38,7 @@ def main(start,especies,indice):
                 
             arq_geral.close()
             sleep(3)
-            print('Arquivo gerado com sucesso com tempo de execução de %.2f' %(time()-start))
+            print('Arquivo gerado com sucesso com tempo de execução de %.2f segundos' %(time()-start))
             break
             
 if __name__ == '__main__':

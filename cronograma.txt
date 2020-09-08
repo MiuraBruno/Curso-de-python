@@ -1,5 +1,5 @@
 cronograma
-(OK)aula_1
+aula_1
     apresentação, introdução etc
     declaração de variável
     tipos de variáveis
@@ -9,7 +9,7 @@ cronograma
         string
     comandos para acessar a lista
     IF ELSE
-(OK)aula_2
+aula_2
     laços
         for
         while
@@ -17,11 +17,11 @@ cronograma
         itens = dic.items()
         chaves = dic.keys()
         valores = dic.values()
-(OK)aula_3
+aula_3
     função
     args
     kargs    
-(OK)aula_4
+aula_4
     dicas de comandos 
         help
         dir
@@ -47,9 +47,3 @@ aula_7
 aula_8
     arquivo de configuração
     1 dia 
-
-
-        
-        
-        
-        
